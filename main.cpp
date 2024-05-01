@@ -12,7 +12,7 @@ int del = 500;
 
 //Server
 //const char* ssid = "Vodafone-35070320";
-//const char* password = "e5k65tx5cy4jf6e";
+//const char* password = "pass";
 
 IPAddress local_ip(192,168,1,1);
 IPAddress gateway(192,168,1,1);
