@@ -8,7 +8,7 @@
 const int relay = 16;
 const int pulse = 4;
 volatile int state = LOW;
-int del = 500;
+volatile int del = 500;     // it's really better with volatile?!
 
 //Server
 //const char* ssid = "Vodafone-35070320";
